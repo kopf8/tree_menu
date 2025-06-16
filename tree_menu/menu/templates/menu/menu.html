@@ -1,0 +1,7 @@
+<ul class='menu'>
+    {% for item in menu_items %}
+        {% if item.is_visible %}
+            {% include 'menu/menu_node.html' %}
+        {% endif %}
+    {% endfor %}
+</ul>
