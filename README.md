@@ -42,7 +42,7 @@ python manage.py runserver
 
 ## Menu create / edit
 Log into your admin panel via endpoint ```127.0.0.1/admin/```, go to "Menu" section and create menu items as follows:
-<img src="https://github.com/kopf8/tree_menu/blob/main/1.png" alt="Create necessary menu items in admin" width=500><br>
+<img src="https://github.com/kopf8/tree_menu/blob/main/1.png" alt="Create necessary menu items in admin" width=800><br>
 
 For each menu item you have to add the following required parameters:
    - Menu name (for instance ```main_menu```)
